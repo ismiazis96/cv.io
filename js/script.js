@@ -10,7 +10,7 @@ $(document).ready(function(){
 
 	// typing animated sript header
 	var typed = new Typed(".typing",{
-		strings: ["Developer","Designer","Programmer"],
+		strings: ["Developer","QA Engineer","Programmer"],
 		typeSpeed: 100,
 		backSpeed: 60,
 		loop: true
